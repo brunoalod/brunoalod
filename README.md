@@ -6,5 +6,5 @@ Hi! My name is **Bruno Alod**. I'm a **full stack developer** mainly focused in 
 - 🔭 I'm currently working as **Full Stack Developer @ MailUp LatAm**.
 - ❤ I mainly work with **Laravel** and **Javascript** but also have experience with **Dart** and **C#**.
 - 🌱 I'm currently learning **Flutter - Vue.js**.
-- 👯 I'm looking to collaborate on commercial projects.
+- 👯 I'm looking to collaborate on commercial and open-source projects.
 - 💬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/bruno-alod/)**, me@brunoalod.com
